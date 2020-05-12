@@ -9,6 +9,8 @@ using the script:
     chmod 777
     ./osprey3
 
+
+![screanshot](https://i.ibb.co/DQGFkcR/Screenshot-from-2020-05-12-18-41-57.png)
 ================================explaining the script==============================
 
 
