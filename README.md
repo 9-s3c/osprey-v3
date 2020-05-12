@@ -47,5 +47,5 @@ so that pretty much sums it up... if you want to check it out https://pastebin.c
 the users of this program probably dont care how it works, they just want anything that will get past windows defender (this dose)
 this is also allot more user friendly than any of the other programs out there, you literaly just run it and it does everything for you so you dont have to be a hacker to use this
 
-i hope you enjoyed my crippling addiction to energy drinks, and i will hopefully finish v4 within the next 4 months...
+i hope you enjoyed my crippling addiction to energy drinks, and i will hopefully finish v4 within the next 2 months...
 btw sorry if there are any errors, and sorry if this is program is shit, im 17 and im still learning so please stop calling me a skid
