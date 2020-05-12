@@ -23,7 +23,7 @@ what i did is use a service called openport (https://openport.io/), i used os.sy
 and used os.system with /usr/bin/dpkg to run the .deb file.
 openport is used to allow a public avalable host (almoast like when you host a website) for the malware to connect to when it is run,
 openport has a security mesure to preven missuse (thanks openport, i got passed it pretty quickly)
-it has a url that is used by the server to authenticate the connecting client "Tell the one you are sending this link to, to first go here: https://us.openport.io/l/27664/sVSsF1qlV2oUXZWn"
+it has a url that is used by the server to authenticate the connecting client "Tell the one you are sending this link to, to first go here: https://us.openport.io/a/aaaaa/aaaaaaaaaaa"
 so how did i abuse this???
 literaly just wrote 2 extra lines of code that visits the authentication url =\_(0_0)_/=
 because openport is installed on the attackers system, it grabs the authentication url from /root/.openport/openport.log
