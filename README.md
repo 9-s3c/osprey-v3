@@ -3,6 +3,7 @@ osprey-v3 is a tool for 100% automated malware that targets windows, !!networkin
 
 
 using the script:
+
     sudo apt install git
     git clone https://github.com/9-s3c/osprey-v3/
     cd osprey-v3
