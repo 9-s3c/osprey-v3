@@ -1,7 +1,7 @@
 # osprey-v3
 osprey-v3 is a tool for 100% automated malware that targets windows, !!networking is automated with openport.io!!, !!! no metasploit !!!, !!! no networking skills reqired !!!, payloads are automated based on /root/.openport/openport.log, automated dependancy installer, only runs on debian based linux distros... please dont moddify the contact info in the scirpt to take credit, it took me a long time and i want credit lmao
 
-check out the video: https://youtu.be/vdgNrggbZtE
+check out the video: https://youtu.be/fX9jnL71WNU
 
 using the script:
 
